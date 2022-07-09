@@ -9,9 +9,12 @@ namespace WebServicesEnrollment.Models
         public string Direccion {get;set;}
         public string Telefono {get;set;}
         
-        
-        
-        
+        public string Estatus {get;set;}
+
+        public string CarreraId {get; set;}
+
+        public string JornadaId {get; set;}
+            
         
     }
 }
